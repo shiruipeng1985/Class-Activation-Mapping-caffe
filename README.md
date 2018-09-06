@@ -1,2 +1,2 @@
 # Class-Activation-Mapping-caffe
-Implementation of the [Sample code for the Class Activation Mapping](https://github.com/metalbubble/CAM) with Caffe
+Implementation of the [Learning Deep Features for Discriminative Localization](https://github.com/metalbubble/CAM) with Caffe
